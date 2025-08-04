@@ -1,0 +1,13 @@
+{
+  "_comment": "Example configuration for development/testing",
+  "telegram_token": "1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789",
+  "chat_id": "-1001234567890",
+  "delete_messages": "T", 
+  "callback_interval": "30",
+  "callback_jitter": "15",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "proxy_host": "",
+  "proxy_port": "",
+  "proxy_user": "",
+  "proxy_pass": ""
+}

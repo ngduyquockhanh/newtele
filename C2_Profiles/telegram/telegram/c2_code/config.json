@@ -1,0 +1,12 @@
+{
+  "telegram_token": "",
+  "chat_id": "",
+  "delete_messages": "T",
+  "callback_interval": "60",
+  "callback_jitter": "10",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "proxy_host": "",
+  "proxy_port": "",
+  "proxy_user": "",
+  "proxy_pass": ""
+}

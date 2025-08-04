@@ -1,0 +1,6 @@
+{
+    "rabbitmq_config": {
+        "name": "telegram",
+        "description": "Telegram Bot API C2 Profile"
+    }
+}
