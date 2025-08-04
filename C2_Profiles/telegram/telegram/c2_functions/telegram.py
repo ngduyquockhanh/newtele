@@ -8,8 +8,9 @@ class Telegram(C2Profile):
     author = "@your_username"
     is_p2p = False
     is_server_routed = False
-    server_binary_path = Path(os.path.join(".", "telegram", "c2_code", "server.py"))
-    server_folder_path = Path(os.path.join(".", "telegram", "c2_code"))
+    server_folder_path = Path(".") / "telegram" / "c2_code"
+    server_binary_path = server_folder_path / "server.py"
+    
     parameters = [
         C2ProfileParameter(
             name="telegram_token",
